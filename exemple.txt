@@ -7,3 +7,5 @@ ceci est un troisièqme message
 ceci est un quatrième messageage n'existant pas sur la branche distante 
 
 ceci est un 5eme message 
+
+ceci est un sixième message il n'existe que dans la branche main 
