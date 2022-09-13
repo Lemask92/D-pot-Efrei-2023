@@ -9,3 +9,5 @@ ceci est un quatrième messageage n'existant pas sur la branche distante
 ceci est un 5eme message , je l'ai modifier sur featur newtext
 
 ceci est un sixième message il n'existe que dans la branche main 
+
+phrase rajouté pour creer conflit (exercice TD)
